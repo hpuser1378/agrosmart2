@@ -1,0 +1,13 @@
+[
+    {
+        "id": "a2bf5b41-1c22-4ebb-82d5-86afdaceede6",
+        "name": "Tractor",
+        "description": "The tractor is in great condition",
+        "price_per_day": 500,
+        "available_units": 0,
+        "owner_name": "HAMZA MUSHTAQ PATEL",
+        "owner_address": "C-503, Raj Nagar C.H.S, Opp. Ayehsa Tower, 173-S.V road\nJogeshwari West, Mumbai-400102",
+        "owner_contact": "8108412691",
+        "listing_date": "2025-10-17 22:56:43"
+    }
+]
